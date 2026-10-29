@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fair",
+    "name": "공정한 게임",
+    "description": "기대값이 정확히 0이 되는 설정",
+    "payoffs": [20, 0],
+    "probabilities": [0.1, 0.9],
+    "cost": 2
+  },
+  {
+    "id": "unfair",
+    "name": "불공정한 게임",
+    "description": "참가비가 기대 상금보다 큰 설정",
+    "payoffs": [10, 0],
+    "probabilities": [0.1, 0.9],
+    "cost": 2
+  },
+  {
+    "id": "lottery",
+    "name": "복권형 게임",
+    "description": "낮은 확률과 큰 상금의 설정",
+    "payoffs": [1000, 0],
+    "probabilities": [0.001, 0.999],
+    "cost": 2
+  }
+]

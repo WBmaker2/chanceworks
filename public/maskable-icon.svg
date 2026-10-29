@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ChanceWorks">
+  <rect width="512" height="512" fill="#0d1220"/>
+  <path d="M92 344h328" stroke="#2a3550" stroke-width="9" stroke-linecap="round"/>
+  <path d="M96 336c54 0 64-7 87-58 23-51 35-113 73-113s50 62 73 113c23 51 33 58 87 58" fill="none" stroke="#b8f14a" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="170" r="19" fill="#ffb347"/>
+  <circle cx="152" cy="300" r="11" fill="#5eead4"/>
+  <circle cx="360" cy="300" r="11" fill="#5eead4"/>
+  <circle cx="256" cy="382" r="14" fill="#7c8cff"/>
+</svg>
